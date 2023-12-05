@@ -89,6 +89,9 @@
                 <td>1574.60 €</td>
             </tr>
 
+
+            
+            
             <tr>
                 <td>Samsung</td>
                 <td>Galaxy S23 5G 128GB crni</td>
